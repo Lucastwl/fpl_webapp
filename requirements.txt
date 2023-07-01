@@ -1,0 +1,7 @@
+numpy
+pandas
+sklearn
+keras
+joblib
+matplotlib
+plot_keras_history
